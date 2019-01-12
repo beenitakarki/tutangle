@@ -1,0 +1,92 @@
+.container  {
+  /* background-color: lightgreen;*/
+   margin: 0 auto;
+   width:1100px;
+}
+.header-wrapper {
+	width:100%;
+	/*background-color: lightblue*/
+	/*border:1px dotted black;*/
+	}
+.logo-search-wrapper {
+	width:800px;
+	float:left;
+	/*background-color: #bbaacc;*/
+	/*border:1px dotted black;*/
+	color: black;
+	box-sizing:border-box;
+	}
+.logo-wrapper{
+	/*background-color: #ddffaa;*/
+	color: black;
+	float: left;
+	width:300px;
+	border:1px dotted black;
+}
+.search-wrapper {
+	width:500px;
+	float: right;
+	/*background-color: magenta;*/
+	border:1px dotted black;
+	}
+.username-wrapper{
+	width:300px;
+	/*background-color: purple;*/
+	float:right;
+	border:1px dotted black;
+}
+.nav-wrapper {
+	background-color: yellow;
+	width:100%
+	}
+.nav-list-wrapper {
+	/*background-color: olive;*/
+	float:left;
+	width:700px;
+}
+.nav-userinfo-wrapper{
+	float:right;
+	width:400px;
+	/*background-color: orange;*/
+}
+.body-wrapper {
+	background-color: tomato;
+	width:100%
+	float:right;
+	}
+.left-sidebar-wrapper{
+	/*background-color: green;*/
+	width:700px;
+	float:left;
+	}
+.leftchild-sidebar-wrapper{
+	/*background-color: #abcdef;*/
+	width:300px;
+	float:left;
+	
+	}
+.content-wrapper {
+	/*background-color: blue;*/
+	width:400px;
+	float:right;
+	}
+.right-sidebar-wrapper{
+	/*background-color: white;*/
+	color: black;
+	float:right;
+	width:400px;
+}
+.footer-wrapper {
+	background-color: pink;
+	width: 100%;
+}
+.left-footer-wrapper {
+	background-color: #fcdeab;
+	width: 600px;
+	float: left;
+}
+.right-footer-wrapper {
+	background-color: #bacfde;
+	width: 500px;
+	float: right;
+}
