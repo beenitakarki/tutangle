@@ -14,43 +14,45 @@
 	/*background-color: #bbaacc;*/
 	/*border:1px dotted black;*/
 	color: black;
-	box-sizing:border-box;
+	/*box-sizing:border-box;*/
 	}
 .logo-wrapper{
 	/*background-color: #ddffaa;*/
 	color: black;
 	float: left;
 	width:300px;
-	border:1px dotted black;
+	outline:1px dotted black;
 }
 .search-wrapper {
 	width:500px;
 	float: right;
 	/*background-color: magenta;*/
-	border:1px dotted black;
+	outline:1px dotted black;
 	}
 .username-wrapper{
 	width:300px;
 	/*background-color: purple;*/
 	float:right;
-	border:1px dotted black;
+	outline:1px dotted black;
 }
 .nav-wrapper {
-	background-color: yellow;
+	/*background-color: yellow;*/
 	width:100%
 	}
 .nav-list-wrapper {
 	/*background-color: olive;*/
 	float:left;
 	width:700px;
+	outline:1px dotted black;
 }
 .nav-userinfo-wrapper{
 	float:right;
 	width:400px;
 	/*background-color: orange;*/
+	outline:1px dotted black;
 }
 .body-wrapper {
-	background-color: tomato;
+	/*background-color: tomato;*/
 	width:100%
 	}
 .left-sidebar-wrapper{
@@ -58,34 +60,38 @@
 	width:700px;
 	float:left;
 	}
-.leftchild-sidebar-wrapper{
+.left-child-sidebar-wrapper{
 	/*background-color: #abcdef;*/
-	width:300px;
-	float:left;
-	
-	}
+	width: 400px;
+	float: left;
+	outline:1px dotted black;
+}
 .content-wrapper {
 	/*background-color: blue;*/
-	width:400px;
-	float:right;
+	width: 300px;
+	float: right;
+	outline:1px dotted black;
 	}
 .right-sidebar-wrapper{
 	/*background-color: white;*/
 	color: black;
 	float:right;
 	width:400px;
+	outline:1px dotted black;
 }
 .footer-wrapper {
-	background-color: pink;
+	/*background-color: pink;*/
 	width: 100%;
 }
 .left-footer-wrapper {
-	background-color: #fcdeab;
+	/*background-color: #fcdeab;*/
 	width: 600px;
 	float: left;
+	outline:1px dotted black;
 }
 .right-footer-wrapper {
-	background-color: #bacfde;
+	/*background-color: #bacfde;*/
 	width: 500px;
 	float: right;
+	outline:1px dotted black;
 }
